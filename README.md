@@ -6,6 +6,7 @@ https://github.com/Sistema-Integrado-Gestao-Academica/SiGA
 
 Explicando o produto:
 SiGA, significa Sistema Integrado de Gestão Acadêmica, que é um sistema que controla questões acadêmicas e financeiras de um Instituto Educacional.
+
 Principais funções:
 	gerenciamento de cursos
 	gerenciamento das matrículas dos alunos 	
