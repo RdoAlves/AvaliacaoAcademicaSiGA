@@ -1,4 +1,4 @@
-# AvaliacaoAcademicaSiGA
+# Módulo AvaliacaoAcademicaSiGA
 Contribuição para criação de novo Módulo de Avaliação Acadêmica no SiGA
 
 SiGA(Integrated Academic Management System) 
