@@ -1,4 +1,4 @@
-# Módulo AvaliacaoAcademicaSiGA
+# Módulo AvaliacaoAcademicaSiGA - PPGCC UFMA - Engenharia de Software
 Contribuição para criação de novo Módulo de Avaliação Acadêmica no SiGA
 
 SiGA(Integrated Academic Management System) 
@@ -20,3 +20,6 @@ Principais funções:
   criar uma novo “módulo para os instrumentos de avaliação acadêmica”. A ideia central é fazer métodos para avaliação de disciplinas e turmas, 
   tanto por parte dos docentes como por parte dos discentes. A partir dessas informações será possível avaliar também, professores, cursos e departamentos.
   Fornecendo aos projetistas e desenvolvedores as informações necessárias para o projeto e implementação de forma a colaborar com a comunidade.
+  
+  
+  
